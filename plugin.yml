@@ -1,0 +1,7 @@
+name: TTCalc
+main: me.blha303.TTCalc
+version: 1
+commands:
+  tt:
+    description: Used for calculating TT coordinates
+    usage: /tt x y
